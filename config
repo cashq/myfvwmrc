@@ -29,7 +29,7 @@ Key o 	  W    SC    RaiseLower # defocus currrent window
 
 #Key F3 A A Module FvwmConsole
 Key F1 A M Exec exec myrxvt
-#Key F2 A M Exec exec xterm
+#Key F2 A M Exec exec firefox
 Key F4 A M Pick Close
 Key X A 4 Pick Desktroy
 
